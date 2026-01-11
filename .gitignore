@@ -1,0 +1,5 @@
+# Local conda artifacts
+*.lock
+*.log
+.env
+__pycache__/

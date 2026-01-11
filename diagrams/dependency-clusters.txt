@@ -1,0 +1,5 @@
+📦 Dependency Clusters
+
+[core]
+  - python_dotenv
+  - pyyaml
